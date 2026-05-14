@@ -1,5 +1,6 @@
 # MapisProject
 Script .sh que gera uma visualização em árvore.
+   
     ====================================================
     MAPA DO PROJETO: ClickirTool
     Gerado em: qui 14 mai 2026 16:18:22 -03
