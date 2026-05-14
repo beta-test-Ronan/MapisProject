@@ -54,7 +54,7 @@ Script .sh que gera uma visualização em árvore.
 
 
 
-#Como usar:
+# Como usar:
 
     Abra o terminal na pasta do projeto.
 
