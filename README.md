@@ -50,3 +50,25 @@ Script .sh que gera uma visualização em árvore.
      |--  | | | |bg_splash.xml
      |--  | | | |bg_btn.xml
      |--  | |AndroidManifest.xml
+
+
+
+
+#Como usar:
+
+    Abra o terminal na pasta do projeto.
+
+    Dê permissão de execução ao script:
+    code Bash
+
+    chmod +x mapisproject.sh
+
+    Execute o script:
+    code Bash
+
+    ./mapisproject.sh
+
+    Veja o resultado:
+    code Bash
+
+    cat project_map.txt
